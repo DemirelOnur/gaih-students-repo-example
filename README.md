@@ -6,10 +6,10 @@
 **Surname:** Demirel  
 **Email:** demirelonur6@gmail.com  
 
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
+  
 
-## Project Name
-Description of your project.
+## Final-Project
+A  knowledge competition consisting of 10 questions. According to the answers given by the person, his score increases or remains constant. Assumption of success is also made with a certain point threshold. Questions are randomly assigned from the pool at the beginning of each competition. The answers to the questions are not  given, and the person should play over and over until they find the answer.
 
 ## Requirements
 ```
